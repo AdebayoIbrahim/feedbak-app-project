@@ -3,12 +3,12 @@
     {
       "id": 1,
       "rating": 10,
-      "text": "This Item 1 Is From Backend"
+      "text": "This Item 1 Is From Json Server"
     },
     {
       "id": 2,
       "rating": 9,
-      "text": "This Item 2 Is From Backend"
+      "text": "This Item 2 Is From Json Server"
     },
     {
       "text": "Great Project Course !!",

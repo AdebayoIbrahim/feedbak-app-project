@@ -3,7 +3,6 @@ import Card from "./shared/Card";
 import { FaTimes, FaEdit } from "react-icons/fa";
 import FeedBackContext from "../Context/FeedbackContext";
 export const FeedBackItem = ({ item }) => {
-  // console.log(item);
   const { deleteFeed, editFeedback } = useContext(FeedBackContext);
   return (
     <Card>

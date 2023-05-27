@@ -1,5 +1,4 @@
 import React, { createContext, useState, useEffect } from "react";
-// import feedBackdata from "../data/feedBackdata";
 const FeedBackContext = createContext();
 
 export const FeedbackProvider = ({ children }) => {
@@ -38,14 +37,6 @@ export const FeedbackProvider = ({ children }) => {
   useEffect(() => {
     fetchData();
   }, []);
-  //fetch from json-server api
-  // const fetchData = async () => {
-  //   const request = await fetch(`http://localhost:2000/feedback`);
-
-  //   const data = await request.json();
-  //   console.log(data);
-  //   setFeedback(data);
-  // };
 
   //using promise
   const fetchData = () => {
@@ -82,8 +73,6 @@ export const FeedbackProvider = ({ children }) => {
     setFeedback(
       feedback.map((item) => {
         if (item.id === id) {
-          // console.log({ ...item });
-          // console.log({ ...updItem });
           return { ...item, ...data };
         } else {
           return item;
