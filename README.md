@@ -5,6 +5,7 @@ This project is a feedback app that users can create feedback including the rati
 ## Features
 
 - **Create Feedbacks:** User Can Create Feedback
+- **Form Validation:** An Effective Form validation is implemented on input submission.
 - **Rating Features for feedback:** When a feedback is being created User can Add a Rating to it ranging from 1-10
 - **Editing Features:** User Can edit/update an alreadily created feedback
 - **Modern UI:** Buttons,inputs and the overall UI are styled for a visually appealing and engaging user experience.
