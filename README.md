@@ -16,9 +16,9 @@ This project is a feedback app that users can create feedback including the rati
 
 ## Running Locally
   #### Clone The repo:
-    ``` git cone https://github.com/AdebayoIbrahim/feedbak-app-project ```
+     git cone https://github.com/AdebayoIbrahim/feedbak-app-project 
   #### Cd into root directory and run the code below to install dependencies.
-    ``` npm install ```
+    npm install 
   #### Sart by running
       npm start
       
