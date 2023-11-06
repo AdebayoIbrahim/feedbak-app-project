@@ -4,7 +4,7 @@ This project is a feedback app that users can create feedback including the rati
 
 ## Features
 
-- **Create Feedbacks:** 
+- **Create Feedbacks:** User Can Create Feedback
 - **Rating Features for feedback:** 
 - **Editing Features:** 
 - **Modern UI:**
