@@ -10,5 +10,5 @@ This project is a feedback app that users can create feedback including the rati
 - **Modern UI:** Buttons,inputs and the overall UI are styled for a visually appealing and engaging user experience.
 - **Delete Features:** User Can delete alreadily created Feedback
 - **Saving Features:** Even On Page Refresh Alreadily Created Task are Saved, so no feedback is lost.
-- **Lazy loding:**
+- **Lazy loding:** Implementation of a smooth loading animation.
 - **API Integration:** 
