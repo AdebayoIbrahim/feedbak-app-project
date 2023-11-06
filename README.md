@@ -11,4 +11,4 @@ This project is a feedback app that users can create feedback including the rati
 - **Delete Features:** User Can delete alreadily created Feedback
 - **Saving Features:** Even On Page Refresh Alreadily Created Task are Saved, so no feedback is lost.
 - **Lazy loding:** Implementation of a smooth loading animation.
-- **API Integration:** 
+- **API Integration:** Consume a Json server API to achieve the above functionalities.
