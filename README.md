@@ -5,7 +5,7 @@ This project is a feedback app that users can create feedback including the rati
 ## Features
 
 - **Create Feedbacks:** User Can Create Feedback
-- **Rating Features for feedback:** When a feedback is being created You can Add a Rating to it ranging from 1-10
+- **Rating Features for feedback:** When a feedback is being created User can Add a Rating to it ranging from 1-10
 - **Editing Features:** 
 - **Modern UI:**
 - **Delete Features:**
