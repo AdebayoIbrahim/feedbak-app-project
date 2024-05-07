@@ -1,4 +1,4 @@
-## Feedback app Project
+## Feedback App Project
 
 This project is a feedback app that users can create feedback including the ratings from the feedback with editing adn updating features, json placeholder/server was used as the Mock Backend for saving feedback.
 
@@ -12,7 +12,7 @@ This project is a feedback app that users can create feedback including the rati
 - **Delete Features:** User Can delete alreadily created Feedback.
 - **Saving Features:** Even On Page Refresh Alreadily Created Task are Saved, so no feedback is lost.
 - **Lazy loding:** Implementation of a smooth loading animation.
-- **API Integration:** Consume a Json server API to achieve the above functionalities.
+- **API Integration:** Consumes a Json server API to achieve the above functionalities.
 
 ## Running Locally
   #### Clone The repo:
